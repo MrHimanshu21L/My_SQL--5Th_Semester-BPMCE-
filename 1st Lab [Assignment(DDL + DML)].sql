@@ -68,7 +68,7 @@ SELECT * FROM Student;
 -- Output:
 -- ROLLNO  NAME        DEPT    AGE  MOBILENO    CITY       SEMESTER
 -- ------  ----------  ------  ---  ----------  ---------  --------
--- 101     HIMANSHU    CSE     21   732387277   Bettiah    4th
+-- 101     HIMANSHU    CSE     21   7323877277   Bettiah    4th
 -- 102     SATISH      CIVIL   22   9032213277  Bettiah    3th
 -- 103     ABHSIHEK    EEE     12   8324413277  BAGAH      6th
 -- 104     RAHUL       ME      21   9837283277  MAHNA      5th
@@ -100,7 +100,7 @@ SELECT * FROM Student WHERE Age > 20;
 -- Output:
 -- ROLLNO  NAME      DEPT    AGE  MOBILENO    CITY       SEMESTER
 -- ------  --------  ------  ---  ----------  ---------  --------
--- 101     HIMANSHU  CSE     21   732387277   Bettiah    4th
+-- 101     HIMANSHU  CSE     21   7323877277   Bettiah    4th
 -- 102     SATISH    CIVIL   22   9032213277  Bettiah    3th
 -- 104     RAHUL     ME      21   9837283277  MAHNA      5th
 -- 105     RAUSHAN   ACE     26   7637283277  MADHPURA  7th
@@ -116,7 +116,7 @@ SELECT * FROM Student;
 -- Output:
 -- ROLLNO  NAME        DEPT    AGE  MOBILENO    CITY       SEMESTER
 -- ------  ----------  ------  ---  ----------  ---------  --------
--- 101     HIMANSHU    ECE     21   732387277   Bettiah    4th
+-- 101     HIMANSHU    ECE     21   7323877277   Bettiah    4th
 -- 102     SATISH      CIVIL   22   9032213277  Bettiah    3th
 -- 103     ABHSIHEK    EEE     12   8324413277  BAGAH      6th
 -- 104     RAHUL       ME      21   9837283277  MAHNA      5th
@@ -148,7 +148,7 @@ SELECT * FROM Student;
 -- Output:
 -- ROLLNO  NAME        DEPT    AGE  MOBILENO    CITY       SEMESTER
 -- ------  ----------  ------  ---  ----------  ---------  --------
--- 101     HIMANSHU    ECE     22   732387277   Bettiah    4th
+-- 101     HIMANSHU    ECE     22   7323877277   Bettiah    4th
 -- 102     SATISH      CIVIL   23   9032213277  Bettiah    3th
 -- 103     ABHSIHEK    EEE     13   8324413277  BAGAH      6th
 -- 104     RAHUL       ME      22   9837283277  PATNA     5th
