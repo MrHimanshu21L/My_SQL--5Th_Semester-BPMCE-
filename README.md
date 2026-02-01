@@ -2,21 +2,16 @@ This repository presents Database Management System (DBMS) laboratory work imple
 
 The work demonstrates how databases are designed, managed, and queried across both enterprise-level and open-source environments. Oracle Database 21c is used to explore advanced and industry-relevant database features, while MySQL provides hands-on experience with a widely adopted and lightweight relational database system.
 
+
 ✨ What’s Included
 
-🏗️ Database and table creation using SQL
-
-🧩 DDL, DML, DCL, and TCL commands
-
-🔐 Constraints (PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL)
-
-🔍 SQL queries using SELECT, JOINS, and SUBQUERIES
-
-📊 Aggregate functions with GROUP BY and HAVING
-
-👁️ Views and indexes
-
-⚙️ Introductory PL/SQL (Oracle 21c)
+- 🏗️ Database and table creation using SQL  
+- 🧩 DDL, DML, DCL, and TCL commands  
+- 🔐 Constraints (PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL)  
+- 🔍 SQL queries using SELECT, JOINS, and SUBQUERIES  
+- 📊 Aggregate functions with GROUP BY and HAVING  
+- 👁️ Views and indexes  
+- ⚙️ Introductory PL/SQL (Oracle 21c)
 
 🎯 Purpose
 
