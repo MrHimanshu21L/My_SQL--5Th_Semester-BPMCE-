@@ -5,11 +5,17 @@ The repository is designed to help students understand how databases are created
 ✨ Key Features and Experiments Covered:
 
 🏗️ Database and table creation using SQL
+
 🧩 Implementation of DDL, DML, DCL, and TCL commands
+
 🔐 Application of constraints such as PRIMARY KEY, FOREIGN KEY, UNIQUE, and NOT NULL
+
 🔍 Query execution using SELECT, JOINS, and SUBQUERIES
+
 📊 Use of aggregate functions and GROUP BY / HAVING clauses
+
 👁️ Creation and management of VIEWS and INDEXES
+
 ⚙️ Introduction to PL/SQL programming in Oracle 21c
 
 All SQL scripts are organized in a clear and systematic folder structure 📁 to ensure easy understanding, execution, and reuse. The experiments focus on accuracy, readability, and best practices in SQL writing.
