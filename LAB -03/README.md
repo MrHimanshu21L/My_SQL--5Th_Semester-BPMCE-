@@ -117,13 +117,13 @@ Composite Primary Key:
 3. Run the script:
 
 ```
-@path_to_file/lab2.sql
+@path_to_file/lab3.sql
 ```
 
 Example:
 
 ```
-@"D:\DBMS\lab2.sql"
+@"D:\DBMS\lab3.sql"
 ```
 
 4. Verify data:
