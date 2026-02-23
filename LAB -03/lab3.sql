@@ -43,14 +43,6 @@ CREATE TABLE Enrollment (
     FOREIGN KEY (Course_ID) REFERENCES Course(Course_ID)
 );
 
-DELETE FROM Enrollment;
-DELETE FROM Course;
-DELETE FROM Student;
-DELETE FROM Faculty;
-DELETE FROM Department;
-COMMIT;
-
-
 DESC Department;
 DESC Faculty;
 DESC Student;
