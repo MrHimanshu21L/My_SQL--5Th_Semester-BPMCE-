@@ -121,9 +121,14 @@ FETCH FIRST 5 ROWS ONLY;
     */
 
 /* 19. Student name with calculated age */
-SELECT 
+SELECT
     Name,
-    FLOOR(MONTHS_BETWEEN(SYSDATE, DOB)/12) AS Age
+    FLOOR(MONTHS_BETWEEN(SYSDATE, DOB)/12) AS Years,
+    MOD(FLOOR(MONTHS_BETWEEN(SYSDATE, DOB)),12) AS Months,
+    TRUNC(SYSDATE - ADD_MONTHS(
+        DOB,
+        FLOOR(MONTHS_BETWEEN(SYSDATE, DOB))
+    )) AS Days
 FROM Student;
 
 /* 20. Course name with updated credits */
